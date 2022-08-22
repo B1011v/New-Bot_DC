@@ -35,4 +35,4 @@ async def on_message(message):
             await message.reply(remessage) 
 
 # Bot起動
-client.run(TOKEN)
+client.run(MTAxMTE3NTU0NzMyNzQ5MjEwNg.GqsGFu.HwY79x8BdCG60Y1ufCm_GNUKwdN51MADv5nN1E)
